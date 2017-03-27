@@ -1,0 +1,15 @@
+{
+  "name": "vampyrbot",
+  "version": "0.0.1",
+  "description": "A multi purpose bot for Beam.pro",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~4.0.0"
+  },
+  "author": "Nirahiel",
+  "license": "SEE LICENSE IN FILE 'LICENSE'",
+  "bugs": {
+    "url": "https://github.com/nirahiel/VampyrBot/issues"
+  },
+  "homepage": "https://github.com/nirahiel/VampyrBot#readme"
+}
